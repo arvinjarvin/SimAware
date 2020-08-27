@@ -1,9 +1,0 @@
-C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Common\bin\x64\Debug\netcoreapp3.1\SimAware.Common.deps.json
-C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Common\bin\x64\Debug\netcoreapp3.1\SimAware.Common.dll
-C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Common\obj\x64\Debug\netcoreapp3.1\SimAware.Common.csprojAssemblyReference.cache
-C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Common\obj\x64\Debug\netcoreapp3.1\SimAware.Common.AssemblyInfoInputs.cache
-C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Common\obj\x64\Debug\netcoreapp3.1\SimAware.Common.AssemblyInfo.cs
-C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Common\bin\x64\Debug\netcoreapp3.1\SimAware.Common.pdb
-C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Common\obj\x64\Debug\netcoreapp3.1\SimAware.Common.csproj.CoreCompileInputs.cache
-C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Common\obj\x64\Debug\netcoreapp3.1\SimAware.Common.dll
-C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Common\obj\x64\Debug\netcoreapp3.1\SimAware.Common.pdb
