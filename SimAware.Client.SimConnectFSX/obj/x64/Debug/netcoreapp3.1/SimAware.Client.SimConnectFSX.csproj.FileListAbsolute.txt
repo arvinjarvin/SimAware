@@ -1,0 +1,15 @@
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\bin\x64\Debug\netcoreapp3.1\SimAware.Client.SimConnectFSX.deps.json
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\bin\x64\Debug\netcoreapp3.1\SimAware.Client.SimConnectFSX.dll
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\bin\x64\Debug\netcoreapp3.1\SimAware.Client.SimConnectFSX.pdb
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\bin\x64\Debug\netcoreapp3.1\Microsoft.FlightSimulator.SimConnect.dll
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\bin\x64\Debug\netcoreapp3.1\SimAware.Client.Logic.dll
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\bin\x64\Debug\netcoreapp3.1\SimAware.Common.dll
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\bin\x64\Debug\netcoreapp3.1\SimAware.Client.Logic.pdb
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\bin\x64\Debug\netcoreapp3.1\SimAware.Common.pdb
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\obj\x64\Debug\netcoreapp3.1\SimAware.Client.SimConnectFSX.csprojAssemblyReference.cache
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\obj\x64\Debug\netcoreapp3.1\SimAware.Client.SimConnectFSX.AssemblyInfoInputs.cache
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\obj\x64\Debug\netcoreapp3.1\SimAware.Client.SimConnectFSX.AssemblyInfo.cs
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\obj\x64\Debug\netcoreapp3.1\SimAware.Client.SimConnectFSX.csproj.CoreCompileInputs.cache
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\obj\x64\Debug\netcoreapp3.1\SimAware.Client.SimConnectFSX.csproj.CopyComplete
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\obj\x64\Debug\netcoreapp3.1\SimAware.Client.SimConnectFSX.dll
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.SimConnectFSX\obj\x64\Debug\netcoreapp3.1\SimAware.Client.SimConnectFSX.pdb

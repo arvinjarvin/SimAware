@@ -1,0 +1,12 @@
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.Logic\bin\x64\Debug\netcoreapp3.1\SimAware.Client.Logic.deps.json
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.Logic\bin\x64\Debug\netcoreapp3.1\SimAware.Client.Logic.dll
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.Logic\bin\x64\Debug\netcoreapp3.1\SimAware.Client.Logic.pdb
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.Logic\bin\x64\Debug\netcoreapp3.1\SimAware.Common.dll
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.Logic\bin\x64\Debug\netcoreapp3.1\SimAware.Common.pdb
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.Logic\obj\x64\Debug\netcoreapp3.1\SimAware.Client.Logic.csprojAssemblyReference.cache
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.Logic\obj\x64\Debug\netcoreapp3.1\SimAware.Client.Logic.AssemblyInfoInputs.cache
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.Logic\obj\x64\Debug\netcoreapp3.1\SimAware.Client.Logic.AssemblyInfo.cs
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.Logic\obj\x64\Debug\netcoreapp3.1\SimAware.Client.Logic.csproj.CoreCompileInputs.cache
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.Logic\obj\x64\Debug\netcoreapp3.1\SimAware.Client.Logic.csproj.CopyComplete
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.Logic\obj\x64\Debug\netcoreapp3.1\SimAware.Client.Logic.dll
+C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.Logic\obj\x64\Debug\netcoreapp3.1\SimAware.Client.Logic.pdb

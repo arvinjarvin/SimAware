@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "FxZjWS886z3qNd+s+fpjM5Q2wi6tr4cMcyjN8ch5v8/ki7TLUqOu1v2i1f5HnHxAnjdKiLA2s5T0zihRpkEioQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdoa\\Desktop\\Projects\\SimAware\\SimAware.Client\\SimAware.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdoa\\.nuget\\packages\\discordrichpresence\\1.0.150\\discordrichpresence.1.0.150.nupkg.sha512",
+    "C:\\Users\\abdoa\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\abdoa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\abdoa\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\abdoa\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\abdoa\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\abdoa\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\abdoa\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

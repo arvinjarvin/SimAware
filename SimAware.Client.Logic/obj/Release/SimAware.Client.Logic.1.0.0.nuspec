@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SimAware.Client.Logic</id>
+    <version>1.0.0</version>
+    <authors>SimAware.Client.Logic</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="SimAware.Common" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\abdoa\Desktop\Projects\SimAware\SimAware.Client.Logic\bin\x64\Release\netcoreapp3.1\win-x64\SimAware.Client.Logic.dll" target="lib\netcoreapp3.1\SimAware.Client.Logic.dll" />
+  </files>
+</package>

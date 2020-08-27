@@ -1,0 +1,17 @@
+﻿<Window x:Class="SimAware.Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimAware.Client"
+        mc:Ignorable="d" Loaded="Window_Loaded"
+        Title="MainWindow" Height="500" Width="500"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image HorizontalAlignment="Left" Height="73" VerticalAlignment="Top" Width="79" Source="/icon.png" Margin="10,10,0,0"/>
+
+    </Grid>
+</Window>
